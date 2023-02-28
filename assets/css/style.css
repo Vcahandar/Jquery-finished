@@ -1,0 +1,18 @@
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons i{
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
+
+.text{
+    background: #abab9a;
+}
+
+body{
+    background: burlywood;
+}
